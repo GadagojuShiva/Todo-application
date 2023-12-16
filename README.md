@@ -1,1 +1,1 @@
-# This is a sample Python-Django todo application code copied from GeeksforGeeks, intended solely for demonstration purposes. I am looking to create Docker images and deploy it on AWS as part of the demonstration
+# I have containerized this Python-Django todo application code, sourced from GeeksforGeeks, for the purpose of demonstration.
